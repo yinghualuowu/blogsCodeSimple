@@ -1,0 +1,19 @@
+{
+    "reduceInertia": true,
+    "keyboardShowGreet": true,
+    "joystickShowGreet": true,
+    "keyboardFirstGreet": true,
+    "joystickFirstGreet": true,
+    "keyboardShowHints": true,
+    "joystickShowHints": true,
+    "keyboardIgnoreVersion": 0,
+    "joystickIgnoreVersion": 0,
+    "noticeTimes": 0,
+    "noticeHash": 0,
+    "resolutionRelatives": {
+        "1920x1080": {
+            "keyboardId": "com.pandadastudio.ninjamustdie3_1920x1080.kmp",
+            "joystickId": ""
+        }
+    }
+}
