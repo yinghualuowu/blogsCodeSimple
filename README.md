@@ -10,3 +10,6 @@ https://www.cnblogs.com/yinghualuowu/p/13128549.html 忍者必须死3 模拟器�
 
 ## VirtualClass
 虚方法的调用关系，暂无链接
+
+## Delegate
+https://www.cnblogs.com/yinghualuowu/p/17011510.html C# 委托和闭包
