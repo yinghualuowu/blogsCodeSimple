@@ -16,3 +16,9 @@ https://www.cnblogs.com/yinghualuowu/p/17011510.html C# 委托和闭包
 
 ## XNameAndMarkup
 x:名称标记，暂无链接
+
+## Panel
+WPF 布局，暂无链接
+
+## DependencyObject
+WPF 依赖属性
